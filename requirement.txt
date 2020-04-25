@@ -1,6 +1,6 @@
 Stairs & Snake ludo
-displaying the last roll for last player
-updating code by removing unnecessary functions (e.g. piece kill)
+displaying the last roll for last player (done)
+updating code by removing unnecessary functions (e.g. piece kill) (contains piece kill but removed extra code for previous positions being same)
 UI
 auto-movement for player piece after dice roll (with/ without flow of movement of piece)
 extra turn in case of dice rolling 6

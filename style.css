@@ -3,3 +3,14 @@
     color: crimson;
     text-decoration: underline;
 }
+
+#playingplayer {
+    display: inline-block;
+}
+
+#numberthrown {
+    display: inline;
+    color: blue;
+    margin-left: 5px;
+    text-decoration: underline;
+}
