@@ -1,0 +1,25 @@
+Stairs & Snake ludo
+displaying the last roll for last player
+updating code by removing unnecessary functions (e.g. piece kill)
+UI
+auto-movement for player piece after dice roll (with/ without flow of movement of piece)
+extra turn in case of dice rolling 6
+functionality for stairs and snake
+online multiplayer
+
+Original Ludo
+extra turn in case of dice rolling 6
+displaying the last roll for last player
+more than one pieces (for each player)
+more than two players (04 players)
+real ludo map
+option for turn of a specific piece
+option of number to be used in case of extra dice rolls
+provision of extra dice roll where a player overlaps (kills) another player
+Option of number of players to play (2 or 3 or 4)
+Leave game option (making that player zero)
+Home functionality where other players cannot go
+Creation of stops where overlap doesnot kills other player piece
+Option of opening of piece through 6 number on dice roll
+provision of extra dice roll where the player clears home (clears game for a piece)
+online multiplayer
